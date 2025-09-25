@@ -12,9 +12,9 @@
 
 ## 📸 Screenshots
 
-| ![Main Menu](screenshots/MainMenu.png) | ![Squad](screenshots/Squad.png) | ![Shop](screenshots/Shop.png) |
+| ![Main Menu](screenshots/MainMenu.jpg) | ![Squad](screenshots/Squad.jpg) | ![Shop](screenshots/Shop.jpg) |
 |-----------------------------------------|---------------------------------|-------------------------------|
-| ![Battle](screenshots/Battle.png) | ![Victory](screenshots/Victory.png) | ![Defeat](screenshots/Defeat.png) |
+| ![Battle](screenshots/Battle.jpg) | ![Victory](screenshots/Victory.jpg) | ![Defeat](screenshots/Defeat.jpg) |
 
 ---
 
