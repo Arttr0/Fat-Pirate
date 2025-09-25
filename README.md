@@ -6,7 +6,7 @@
 
 ## 🎮 Play Now
 
-▶️ [Play the game in your browser](https://arttr0.github.io/Fat-Pirate/)
+▶️ [Play the game in your browser](https://arttr0.github.io/Fat-Pirate-Game/)
 
 ---
 
